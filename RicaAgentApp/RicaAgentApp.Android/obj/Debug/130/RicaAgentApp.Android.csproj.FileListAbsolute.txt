@@ -1,0 +1,3 @@
+D:\Templates\C#\RicaAgentApp\RicaAgentApp\RicaAgentApp.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+D:\Templates\C#\RicaAgentApp\RicaAgentApp\RicaAgentApp.Android\obj\Debug\130\build.props
+D:\Templates\C#\RicaAgentApp\RicaAgentApp\RicaAgentApp.Android\obj\Debug\130\adb.props
